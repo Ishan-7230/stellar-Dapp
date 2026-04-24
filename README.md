@@ -7,7 +7,7 @@
 ![Tech-React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge)
 
 ##  Project Vision
-The goal of Stellar Node is to demonstrate the power of Stellar's Soroban smart contracts by moving traditional application logic (CRUD operations) entirely on-chain. Every task created is a piece of digital history, owned by the user and secured by the Stellar network.
+updated
 
 ##  Key Features
 - **Decentralized Storage**: Tasks are stored in Soroban Smart Contracts, not a central database.
